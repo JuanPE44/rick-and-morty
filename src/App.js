@@ -58,7 +58,7 @@ function App() {
                 nombre={personaje.name}
                 especie={personaje.species}
                 estado={personaje.status}
-              />              
+              />               
             )
           })
         }
